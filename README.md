@@ -45,15 +45,15 @@ I'm a Python developer interested in building desktop applications and learning 
 
 ## Selected Projects
 
-### DBG Anbar
+### [DBG Anbar](#)
 A school inventory management system focused on centralized data management and desktop workflows.
 
 **Built with:** Python · Flet
 
-### Python Calculator
-A desktop calculator project built while exploring Flet and interactive user interfaces.
+### [My Calculator v0.1](projects/MyCalculator/)
+A desktop calculator with basic arithmetic, factorial, square root, and power operations.
 
-**Built with:** Python · Flet
+**Built with:** Python · Flet · [Source code](projects/MyCalculator/MyCalculater.py)
 
 ## GitHub Activity
 
