@@ -50,10 +50,10 @@ A school inventory management system focused on centralized data management and 
 
 **Built with:** Python · Flet
 
-### [My Calculator v0.1](projects/MyCalculator/)
+### [My Calculator v0.1](https://github.com/CodeWithAMZ/MyCalculator)
 A desktop calculator with basic arithmetic, factorial, square root, and power operations.
 
-**Built with:** Python · Flet · [Source code](projects/MyCalculator/MyCalculater.py)
+**Built with:** Python · Flet
 
 ## GitHub Activity
 
